@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66822339-9eb6-4bbc-998e-8ceba6ae84cc" name="Default" comment="git解决冲突">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,56 +23,32 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="modules.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="modules.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+            <state relative-caret-position="175">
+              <caret line="15" column="35" lean-forward="false" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="vcs.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1215">
-              <caret line="273" column="18" lean-forward="false" selection-start-line="273" selection-start-column="18" selection-end-line="273" selection-end-column="18" />
-              <folding>
-                <marker date="1529731448349" expanded="true" signature="57826:57841" ph="..." />
-                <marker date="1529731448349" expanded="true" signature="57876:59960" ph="..." />
-                <marker date="1529731448349" expanded="true" signature="57889:59945" ph="..." />
-                <marker date="1529731448349" expanded="true" signature="57922:58241" ph="..." />
-                <marker date="1529731448349" expanded="true" signature="57941:58226" ph="..." />
-                <marker date="1529731448349" expanded="true" signature="58021:58206" ph="..." />
-                <marker date="1529731448349" expanded="true" signature="58061:58172" ph="..." />
-                <marker date="1529731448349" expanded="true" signature="58082:58150" ph="..." />
-                <marker date="1529731448349" expanded="true" signature="58292:58611" ph="..." />
-                <marker date="1529731448349" expanded="true" signature="58311:58596" ph="..." />
-                <marker date="1529731448349" expanded="true" signature="58398:58576" ph="..." />
-                <marker date="1529731448349" expanded="true" signature="58438:58542" ph="..." />
-                <marker date="1529731448349" expanded="true" signature="58459:58520" ph="..." />
-                <marker date="1529731448349" expanded="true" signature="58654:58960" ph="..." />
-                <marker date="1529731448349" expanded="true" signature="58673:58945" ph="..." />
-                <marker date="1529731448349" expanded="true" signature="58747:58925" ph="..." />
-                <marker date="1529731448349" expanded="true" signature="58787:58891" ph="..." />
-                <marker date="1529731448349" expanded="true" signature="58808:58869" ph="..." />
-                <marker date="1529731448349" expanded="true" signature="58995:59301" ph="..." />
-                <marker date="1529731448349" expanded="true" signature="59014:59286" ph="..." />
-                <marker date="1529731448349" expanded="true" signature="59088:59266" ph="..." />
-                <marker date="1529731448349" expanded="true" signature="59128:59232" ph="..." />
-                <marker date="1529731448349" expanded="true" signature="59149:59210" ph="..." />
-                <marker date="1529731448349" expanded="true" signature="59353:59618" ph="..." />
-                <marker date="1529731448349" expanded="true" signature="59372:59603" ph="..." />
-                <marker date="1529731448349" expanded="true" signature="59405:59583" ph="..." />
-                <marker date="1529731448349" expanded="true" signature="59445:59549" ph="..." />
-                <marker date="1529731448349" expanded="true" signature="59466:59527" ph="..." />
-                <marker date="1529731448349" expanded="true" signature="59666:59931" ph="..." />
-                <marker date="1529731448349" expanded="true" signature="59685:59916" ph="..." />
-                <marker date="1529731448349" expanded="true" signature="59718:59896" ph="..." />
-                <marker date="1529731448349" expanded="true" signature="59758:59862" ph="..." />
-                <marker date="1529731448349" expanded="true" signature="59779:59840" ph="..." />
-              </folding>
+            <state relative-caret-position="0">
+              <caret line="228" column="18" lean-forward="true" selection-start-line="228" selection-start-column="18" selection-end-line="228" selection-end-column="18" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -104,9 +79,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="111" />
-    <option name="y" value="157" />
-    <option name="width" value="1307" />
+    <option name="x" value="53" />
+    <option name="y" value="13" />
+    <option name="width" value="1499" />
     <option name="height" value="954" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -754,12 +729,39 @@
       <option name="project" value="LOCAL" />
       <updated>1529731277530</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="git提交到本地分支">
+      <created>1529733275215</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1529733275215</updated>
+    </task>
+    <task id="LOCAL-00003" summary="git提交文件到本地分支">
+      <created>1529733295613</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1529733295613</updated>
+    </task>
+    <task id="LOCAL-00004" summary="git解决冲突">
+      <created>1529733548465</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1529733548465</updated>
+    </task>
+    <task id="LOCAL-00005" summary="git测试add、commit、push">
+      <created>1529733761043</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1529733761043</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="111" y="157" width="1307" height="954" extended-state="0" />
-    <editor active="true" />
+    <frame x="53" y="13" width="1499" height="954" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -770,10 +772,10 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23125795" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.6493012" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2791633" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24181184" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -840,14 +842,205 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="git测试版本回滚" />
+    <MESSAGE value="git提交到本地分支" />
+    <MESSAGE value="git提交文件到本地分支" />
     <MESSAGE value="git解决冲突" />
-    <option name="LAST_COMMIT_MESSAGE" value="git解决冲突" />
+    <MESSAGE value="git测试add、commit、push" />
+    <option name="LAST_COMMIT_MESSAGE" value="git测试add、commit、push" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="19" lean-forward="false" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="19" lean-forward="false" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="19" lean-forward="false" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="19" lean-forward="false" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/liyangGit.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1215">
+          <caret line="273" column="18" lean-forward="false" selection-start-line="273" selection-start-column="18" selection-end-line="273" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="15" column="9" lean-forward="false" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1029,55 +1222,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1215">
-          <caret line="273" column="18" lean-forward="false" selection-start-line="273" selection-start-column="18" selection-end-line="273" selection-end-column="18" />
-          <folding>
-            <marker date="1529731448349" expanded="true" signature="57826:57841" ph="..." />
-            <marker date="1529731448349" expanded="true" signature="57876:59960" ph="..." />
-            <marker date="1529731448349" expanded="true" signature="57889:59945" ph="..." />
-            <marker date="1529731448349" expanded="true" signature="57922:58241" ph="..." />
-            <marker date="1529731448349" expanded="true" signature="57941:58226" ph="..." />
-            <marker date="1529731448349" expanded="true" signature="58021:58206" ph="..." />
-            <marker date="1529731448349" expanded="true" signature="58061:58172" ph="..." />
-            <marker date="1529731448349" expanded="true" signature="58082:58150" ph="..." />
-            <marker date="1529731448349" expanded="true" signature="58292:58611" ph="..." />
-            <marker date="1529731448349" expanded="true" signature="58311:58596" ph="..." />
-            <marker date="1529731448349" expanded="true" signature="58398:58576" ph="..." />
-            <marker date="1529731448349" expanded="true" signature="58438:58542" ph="..." />
-            <marker date="1529731448349" expanded="true" signature="58459:58520" ph="..." />
-            <marker date="1529731448349" expanded="true" signature="58654:58960" ph="..." />
-            <marker date="1529731448349" expanded="true" signature="58673:58945" ph="..." />
-            <marker date="1529731448349" expanded="true" signature="58747:58925" ph="..." />
-            <marker date="1529731448349" expanded="true" signature="58787:58891" ph="..." />
-            <marker date="1529731448349" expanded="true" signature="58808:58869" ph="..." />
-            <marker date="1529731448349" expanded="true" signature="58995:59301" ph="..." />
-            <marker date="1529731448349" expanded="true" signature="59014:59286" ph="..." />
-            <marker date="1529731448349" expanded="true" signature="59088:59266" ph="..." />
-            <marker date="1529731448349" expanded="true" signature="59128:59232" ph="..." />
-            <marker date="1529731448349" expanded="true" signature="59149:59210" ph="..." />
-            <marker date="1529731448349" expanded="true" signature="59353:59618" ph="..." />
-            <marker date="1529731448349" expanded="true" signature="59372:59603" ph="..." />
-            <marker date="1529731448349" expanded="true" signature="59405:59583" ph="..." />
-            <marker date="1529731448349" expanded="true" signature="59445:59549" ph="..." />
-            <marker date="1529731448349" expanded="true" signature="59466:59527" ph="..." />
-            <marker date="1529731448349" expanded="true" signature="59666:59931" ph="..." />
-            <marker date="1529731448349" expanded="true" signature="59685:59916" ph="..." />
-            <marker date="1529731448349" expanded="true" signature="59718:59896" ph="..." />
-            <marker date="1529731448349" expanded="true" signature="59758:59862" ph="..." />
-            <marker date="1529731448349" expanded="true" signature="59779:59840" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.idea/liyangGit.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1086,10 +1230,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        <state relative-caret-position="175">
+          <caret line="15" column="35" lean-forward="false" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="228" column="18" lean-forward="true" selection-start-line="228" selection-start-column="18" selection-end-line="228" selection-end-column="18" />
           <folding />
         </state>
       </provider>
