@@ -3,4 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
   </component>
+  //测试reset能否让单个文件回滚到上个版本
+  //git测试reset删除之后的版本
 </project>
